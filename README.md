@@ -1,5 +1,5 @@
-<h5> Olá! Meu nome é Athos Franco de Sá Feitosa e sou um estudante de programação autodidata com o objetivo de me tornar um Desenvolvedor de Software Fullstack no futuro.  :smile: 
-</h5>
+<div"> Olá! Meu nome é Athos Franco de Sá Feitosa e sou um estudante de programação autodidata com o objetivo de me tornar um Desenvolvedor de Software Fullstack no futuro.  :smile: 
+</div>
 
 <h2>Estou Aprendendo</h2>
 
