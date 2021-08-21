@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=athosfranco&label=Profile%20views&color=0e75b6&style=flat" alt="athosfranco" /> </p>
 
-- 🔭 I’m currently working on **React Expenses Tracker**
+- 🔭 I’m currently working on **React Expenses Tracker** and **my personal Portfolio**
 
 - 🌱 I’m currently learning **ReactJs, NodeJs, GatsbyJs**
 
