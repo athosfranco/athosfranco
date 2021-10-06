@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React Expenses Tracker** and **my personal Portfolio**
 
-- 🌱 I’m currently learning **ReactJs, NodeJs, GatsbyJs**
+- 🌱 I’m currently learning **ReactJs, Firebase**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
