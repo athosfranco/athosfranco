@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=athosfranco&label=Profile%20views&color=0e75b6&style=flat" alt="athosfranco" /> </p>
 
-- 🔭 I create web apps using **JavaScript**, **React**, **TailwindCSS**, **StyledComponents**,** NextJs**
+- 🔭 I create web apps using **JavaScript**, **React**, **TailwindCSS**, **StyledComponents**,**NextJs**
 
 - 🌱 I’m currently learning **Backend Web Development with Java**
 
