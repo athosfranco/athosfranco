@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=athosfranco&label=Profile%20views&color=0e75b6&style=flat" alt="athosfranco" /> </p>
 
-- 👨‍💻 My Skills: **HTML + CSS** | **Modern JavaScript (ES6+)** | **React Framework** (including Hooks, Router) | **NextJs** | CSS libraries and frameworks like **TailwindCSS**, **Bootstrap 5**, **StyledComponents** | API request handling with **Axios** and **Fetch 
+- 👨‍💻 My Skills: **HTML + CSS** | **Modern JavaScript (ES6+)** | **React Framework** (including Hooks, Router) | **NextJs** | CSS libraries and frameworks like **TailwindCSS**, **Bootstrap 5**, **StyledComponents** | API request handling with **Axios** and **Fetch**
 
 - 🌱 I’m currently learning **Backend Web Development with Java**
 
