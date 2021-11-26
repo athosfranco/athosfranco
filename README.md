@@ -5,7 +5,7 @@
 
 - 👨‍💻 My Skills: **HTML + CSS** | **Modern JavaScript (ES6+)** | **React Framework** (including Hooks, Router) | **NextJs** | CSS libraries and frameworks like **TailwindCSS**, **Bootstrap 5**, **StyledComponents** | API request handling with **Axios** and **Fetch**
 
-- 🌱 I’m currently learning **Backend Web Development with Java**
+- 🌱 I’m currently learning **Backend Web Development with Java, OOP**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
