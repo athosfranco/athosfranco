@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Athos Franco.</h1>
-<h3 align="center">I'm a self-taught web developer.</h3>
+<h3 align="center">I'm a Web Developer.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=athosfranco&label=Profile%20views&color=0e75b6&style=flat" alt="athosfranco" /> </p>
 
