@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img src="https://raw.githubusercontent.com/athosfranco/athosfranco/main/namedev.png" align="center" alt="Athos Dev" />
 
  <h3 align="center">Hi! My name is Athos Franco. I am 26 years old Web Developer. My main language is JavaScript and i use modern javascript-related technologies and frameworks to develop web solutions. You can see my <a href="">Portfolio</a> here. </h3>
   
