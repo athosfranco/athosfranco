@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Athos Franco.</h1>
-<h3 align="center">I'm a Web Developer.</h3>
+<h2 align="center">I'm a Web Developer.</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=athosfranco&label=Profile%20views&color=0e75b6&style=flat" alt="athosfranco" /> </p>
 
@@ -21,8 +21,8 @@
 <a href="https://medium.com/@athosfranco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@athosfranco" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=athosfranco&show_icons=true&locale=en" alt="athosfranco" /></p>
+![Athos Franco](https://github-readme-stats.vercel.app/api?username=athosfranco&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=pt-br)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=athosfranco&show_icons=true&locale=en&layout=compact" alt="athosfranco" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athosfranco&theme=midnight-purple&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
