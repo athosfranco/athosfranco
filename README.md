@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
  
-  <a href="athos.francof@gmail.com" alt="Gmail" target="_blank">
+  <a href="mailto:athos.francof@gmail.com" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white">
   </a> 
  
