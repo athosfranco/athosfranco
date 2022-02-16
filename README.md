@@ -2,6 +2,8 @@
  <img src="https://raw.githubusercontent.com/athosfranco/athosfranco/main/namedev.png" align="center" alt="Athos Dev" />
 
  <h3 align="center">Hi! My name is Athos Franco. I am 26 years old Web Developer. My main language is JavaScript and i use modern javascript-related technologies and frameworks to develop web solutions. You can see my <a href="https://athosfranco.netlify.app/">Portfolio</a> here. </h3>
+ 
+ I'm currently learning Java, PostreSQL and Back End Development. 
   
 </p>
 
