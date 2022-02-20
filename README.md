@@ -11,9 +11,9 @@
 
 <p align="center">
  
- <a href="https://drive.google.com/file/d/1FP5HSgZIgJ8A5Btmlt9WWOFVti4WtEnO/view" alt="Currículo" target="blank">
-  <img src="https://img.shields.io/badge/Currículo-F5632D?style=for-the-badge&logo=Currículo&logoColor=white">
-  </a>
+   <a href="https://drive.google.com/file/d/1FP5HSgZIgJ8A5Btmlt9WWOFVti4WtEnO/view" alt="Linkedin" target="blank">
+  <img src="https://img.shields.io/badge/Curriculo-F5632D?style=for-the-badge&logo=BookStack&logoColor=white">
+  </a> 
  
    <a href="https://www.linkedin.com/in/athosfranco/" alt="Linkedin" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
