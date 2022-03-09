@@ -9,6 +9,7 @@
 
 <br/>
 
+
 <p align="center">
  
    <a href="https://drive.google.com/file/d/1FP5HSgZIgJ8A5Btmlt9WWOFVti4WtEnO/view" alt="Linkedin" target="blank">
@@ -35,6 +36,11 @@
   </p>
 
 <br>
+
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=athosfranco&color=red" align="center" alt="AthosFranco"  />
+ </p>
 
 
 
