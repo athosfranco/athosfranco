@@ -48,7 +48,7 @@
 
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athosfranco&theme=codeSTACKr&layout=default&langs_count=10&card_width=300" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athosfranco&hide=html&theme=codeSTACKr&layout=default&langs_count=10&card_width=300" />
 </a>
 
 <br/>
