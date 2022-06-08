@@ -43,7 +43,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=athosfranco&show_icons=true&theme=codeSTACKr&include_all_commits=true&locale=en" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=athosfranco&show_icons=true&hide=html&theme=codeSTACKr&include_all_commits=true&locale=en" />
 </a>
 
 
