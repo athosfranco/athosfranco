@@ -35,21 +35,25 @@
 
 <br>
 
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=athosfranco&color=red" align="center" alt="AthosFranco"  />
- </p>
+<p float="left">
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=athosfranco&show_icons=true&theme=codeSTACKr&include_all_commits=true&locale=en" />
-</a>
 
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athosfranco&hide=html&theme=codeSTACKr&layout=default&langs_count=10&card_width=300" />
-</a>
+</p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athosfranco&theme=2077)
+
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=athosfranco&theme=2077)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=athosfranco&theme=2077)
+
+
+
+
+
 
 <br/>
 
