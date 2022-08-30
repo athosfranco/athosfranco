@@ -35,22 +35,14 @@
 
 <br>
 
-<p float="left">
+<p align="center">
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athosfranco&theme=2077) 
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=athosfranco&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=athosfranco&theme=2077)
 
 
 </p>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athosfranco&theme=2077)
-
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=athosfranco&theme=2077)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=athosfranco&theme=2077)
-
-
 
 
 
