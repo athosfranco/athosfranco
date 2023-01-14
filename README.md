@@ -2,13 +2,19 @@
  <img src="https://raw.githubusercontent.com/athosfranco/athosfranco/main/namedev.png" align="center" alt="Athos Dev" />
 
  <h3 align="center">Hi! My name is Athos Franco. I'm  a 27 years old Fullstack Web Developer. My main languages are TypeScript and Java. I use the entire ecosystem of modern technologies that exist in both languages to develop great solutions for the web. You can see my <a href="https://athosfranco.netlify.app/">Portfolio</a> here. </h3>
-  
+ 
 </p>
 
+
+
+ 
 <br/>
 
 
+
 <p align="center">
+ 
+
  
    <a href="https://drive.google.com/file/d/1FP5HSgZIgJ8A5Btmlt9WWOFVti4WtEnO/view" alt="Linkedin" target="blank">
   <img src="https://img.shields.io/badge/Curriculo-F5632D?style=for-the-badge&logo=BookStack&logoColor=white">
@@ -37,14 +43,18 @@
 
 <p align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athosfranco&theme=2077) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=athosfranco&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=athosfranco&theme=2077)
+
 
 
 </p>
 
-
+<br/>
+ <div>
+  <a href="https://github.com/athosfranco">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=athosfranco&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athosfranco&hide=javascript,html&theme=codeSTACKr&layout=compact&langs_count=7"/>
+</div>
 
 
 <br/>
