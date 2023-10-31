@@ -1,9 +1,7 @@
 <p align="center">
  <img src="https://raw.githubusercontent.com/athosfranco/athosfranco/main/namedev.png" align="center" alt="Athos Dev" />
 
- <h3 align="left">Hi! My name is Athos Franco. I'm  a 27 years old Fullstack Web Developer. My main languages are TypeScript and Java. I use the entire ecosystem of modern technologies that exist in both languages to develop great solutions for the web. You can see my <a href="https://athosfranco.netlify.app/">Portfolio</a> here. </h3>
- 
-
+Hello! I'm a web developer currently focused on frontend and mobile development. I specialize in crafting intuitive and user-friendly interfaces using TypeScript and frameworks such as Next.js, React, React Native, and Angular. I also have meaningful experience with backend development, working with node.js and Java/Spring Boot, making me a versatile asset for delivering end-to-end web solutions.
 
 
 
